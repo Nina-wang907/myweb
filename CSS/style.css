@@ -1,0 +1,54 @@
+h1{
+	font-family:Franklin Gothic Heavy;
+	text-align: center;
+	font-size: 55px;
+	font-color:black;
+}
+h2{
+	font-family: Verdana;
+	text-align: center;
+	font-size: 20px;
+}
+
+div.title1{
+	position: absolute;
+	padding-left: 85px;
+	padding-top:5px;
+}
+
+div.title2{
+	position:absolute;
+	padding-left: 1115px;
+	padding-top:5px;
+}
+
+
+.reddot{
+	position: absolute;
+	bottom: 400px;
+	left:330px;
+}
+
+.yellowdot{
+	position: absolute;
+	bottom: 390px;
+	right:400px;
+}
+
+.greendot{
+	position: absolute;
+	bottom: 435px;
+	left:705px;
+}
+
+h3{
+	font-family: Franklin Gothic Heavy;
+	text-align: left;
+	font-size: 20px;
+}
+p{
+	font-color:grey;
+	font-size:15px;
+	font-family: Verdana;
+	text-align: center;
+}
